@@ -1,0 +1,213 @@
+[
+  {
+    "question": "What zoning districts are available for residential use in Calgary?",
+    "answer": "Residential districts range from R-1 single-detached to R-CG rowhouse configurations.",
+    "relevant_doc_ids": [
+      "doc_01"
+    ]
+  },
+  {
+    "question": "How does the city handle variance requests for land use?",
+    "answer": "Variances require a development permit application reviewed by the Calgary Planning Commission.",
+    "relevant_doc_ids": [
+      "doc_01"
+    ]
+  },
+  {
+    "question": "What CTrain lines currently operate in Calgary?",
+    "answer": "The CTrain has the Red Line running north-south and the Blue Line running northeast to west.",
+    "relevant_doc_ids": [
+      "doc_02"
+    ]
+  },
+  {
+    "question": "What is the ridership target for Calgary Transit?",
+    "answer": "The strategic plan targets a 30 percent increase in ridership by 2030.",
+    "relevant_doc_ids": [
+      "doc_02"
+    ]
+  },
+  {
+    "question": "Where does Calgary get its drinking water?",
+    "answer": "Calgary's water supply comes primarily from the Bow and Elbow rivers.",
+    "relevant_doc_ids": [
+      "doc_03"
+    ]
+  },
+  {
+    "question": "How much water does Calgary treat daily during peak demand?",
+    "answer": "The city treats approximately 400 million litres of water per day during peak summer demand.",
+    "relevant_doc_ids": [
+      "doc_03"
+    ]
+  },
+  {
+    "question": "What is the affordable housing target for Calgary?",
+    "answer": "The strategy sets a target of 4,500 new affordable units by 2030.",
+    "relevant_doc_ids": [
+      "doc_04"
+    ]
+  },
+  {
+    "question": "How is affordable housing defined in Calgary?",
+    "answer": "Affordable housing costs no more than 30 percent of gross household income for renters below median income.",
+    "relevant_doc_ids": [
+      "doc_04"
+    ]
+  },
+  {
+    "question": "How many hectares of parkland does Calgary maintain?",
+    "answer": "Calgary maintains over 8,600 hectares of parkland.",
+    "relevant_doc_ids": [
+      "doc_05"
+    ]
+  },
+  {
+    "question": "What is the tree canopy target for Calgary?",
+    "answer": "The urban forest strategy targets an increase in tree canopy from 8 to 14 percent.",
+    "relevant_doc_ids": [
+      "doc_05"
+    ]
+  },
+  {
+    "question": "What happened with flooding in Calgary in 2013?",
+    "answer": "Flood mitigation is a high priority following the 2013 flood, with investments in upstream storage.",
+    "relevant_doc_ids": [
+      "doc_06"
+    ]
+  },
+  {
+    "question": "How does Calgary notify residents during emergencies?",
+    "answer": "The alert notification system sends warnings through mobile devices, social media, radio, and television.",
+    "relevant_doc_ids": [
+      "doc_06"
+    ]
+  },
+  {
+    "question": "What is Calgary's greenhouse gas emissions target?",
+    "answer": "The climate action plan sets a net-zero emissions target by 2050 with 40 percent reduction by 2030.",
+    "relevant_doc_ids": [
+      "doc_07"
+    ]
+  },
+  {
+    "question": "What sector produces the most emissions in Calgary?",
+    "answer": "Buildings account for 58 percent of community emissions.",
+    "relevant_doc_ids": [
+      "doc_07"
+    ]
+  },
+  {
+    "question": "How many lane-kilometres of roads does Calgary manage?",
+    "answer": "The city manages over 16,000 lane-kilometres of roads and 450 bridges.",
+    "relevant_doc_ids": [
+      "doc_08",
+      "doc_13"
+    ]
+  },
+  {
+    "question": "What is the complete streets policy in Calgary?",
+    "answer": "The complete streets policy requires all new road projects to accommodate pedestrians, cyclists, and transit.",
+    "relevant_doc_ids": [
+      "doc_08"
+    ]
+  },
+  {
+    "question": "How much does a business licence cost in Calgary?",
+    "answer": "Annual fees range from 100 to 500 dollars depending on the business type.",
+    "relevant_doc_ids": [
+      "doc_09"
+    ]
+  },
+  {
+    "question": "How long does it take to process a business licence application?",
+    "answer": "Processing times were reduced from 15 days to 5 business days for low-risk applications.",
+    "relevant_doc_ids": [
+      "doc_09"
+    ]
+  },
+  {
+    "question": "What crime prevention design guidelines does Calgary use?",
+    "answer": "Crime prevention through environmental design guidelines are applied to new developments.",
+    "relevant_doc_ids": [
+      "doc_10"
+    ]
+  },
+  {
+    "question": "What does the community standards bylaw address?",
+    "answer": "The bylaw addresses nuisance issues including noise complaints, property maintenance, and encampments.",
+    "relevant_doc_ids": [
+      "doc_10"
+    ]
+  },
+  {
+    "question": "What can be placed in Calgary's blue recycling cart?",
+    "answer": "Paper, cardboard, plastics numbered 1 through 7, glass, and metal containers.",
+    "relevant_doc_ids": [
+      "doc_11"
+    ]
+  },
+  {
+    "question": "What is Calgary's current waste diversion rate?",
+    "answer": "The current waste diversion rate is 62 percent with a target of 70 percent by 2025.",
+    "relevant_doc_ids": [
+      "doc_11"
+    ]
+  },
+  {
+    "question": "What are Calgary's priority economic sectors?",
+    "answer": "Technology and innovation, logistics and transportation, agribusiness and food, and creative industries.",
+    "relevant_doc_ids": [
+      "doc_12"
+    ]
+  },
+  {
+    "question": "What incentives does Calgary offer for downtown businesses?",
+    "answer": "Tax incentives for companies locating in the downtown core to address office vacancy.",
+    "relevant_doc_ids": [
+      "doc_12"
+    ]
+  },
+  {
+    "question": "How quickly are major roads cleared after snowfall?",
+    "answer": "Priority 1 routes are cleared within 24 hours of a snowfall event.",
+    "relevant_doc_ids": [
+      "doc_13"
+    ]
+  },
+  {
+    "question": "What is the fine for not clearing your sidewalk in Calgary?",
+    "answer": "Fines start at 150 dollars for failing to clear sidewalks within 24 hours.",
+    "relevant_doc_ids": [
+      "doc_13"
+    ]
+  },
+  {
+    "question": "How does Calgary fund public art?",
+    "answer": "The city allocates 1 percent of eligible capital project budgets to public art.",
+    "relevant_doc_ids": [
+      "doc_14"
+    ]
+  },
+  {
+    "question": "How much does Calgary invest in cultural grants annually?",
+    "answer": "The Cultural Development Grant Program distributes approximately 8 million dollars annually.",
+    "relevant_doc_ids": [
+      "doc_14"
+    ]
+  },
+  {
+    "question": "How are residential properties assessed in Calgary?",
+    "answer": "Residential properties use the direct comparison approach based on market value as of July 1.",
+    "relevant_doc_ids": [
+      "doc_15"
+    ]
+  },
+  {
+    "question": "What is the residential property tax rate in Calgary?",
+    "answer": "The residential tax rate is approximately 3.7 mills.",
+    "relevant_doc_ids": [
+      "doc_15"
+    ]
+  }
+]
